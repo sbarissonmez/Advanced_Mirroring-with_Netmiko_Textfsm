@@ -1,1 +1,1 @@
-Mirroring the config in one Cisco router to another Cisco router with Netmiko.
+Netmiko ile textfsm ile yapılandırmayı ayrıştırarak başka bir Cisco yönlendiriciye yansıtma.
