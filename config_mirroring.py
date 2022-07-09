@@ -33,7 +33,7 @@ else:
     
 try:
     dst = ConnectHandler(**destination) #Hedef router'ına bağlantı satırı
-    dst.enable()
+    dst.enable() 
     
 except Exception as e:
     raise(e)
